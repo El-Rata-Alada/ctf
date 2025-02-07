@@ -1,9 +1,10 @@
 
 1. intro - decoded
-2. level 1 - seems to be plus codes. took the degrees seriously.(free hint) -> ascii conversion -> rearrangements -> decoded.
+2. level 1 - seems to be plus codes. took the degrees seriously.(free hint) -> ascii conversion -> rearrangements -> decoded. got NEBULAARK
 3. level 3 - 
 string a:
-
+  As the hint says the flag is in index.html. When we inspected the page there is a section of script we came across a path /legal/iota/epsilon/eta/data.html
+when we got into there at the corner of the page we got string a : a9B#4pD!
 string b:
 from the hint the second file found from robot.txt.we hosted the whole folder in vas code using live server and we searched in disallowed paths. 
 this path blog/gamma/zeta/delta/iota/zeta/ has a html file name nika.html which kas given us the string b : z6@Wv7L$2q    
