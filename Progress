@@ -1,6 +1,6 @@
 
 1. intro - decoded
-2. level 1 - seems to be plus codes. took the degrees seriously.(free hint) -> ascii conversion -> rearrangements -> decoded. got NEBULAARK
+2. level 1 - seems to be plus codes in the file. took the degrees seriously.(free hint) -> converted the plus codes into latitudes and longitudes degrees. -> removed the dots -> ascii conversion -> rearrangements -> decoded. got NEBULAARK
 3. level 3 - 
 string a:
   As the hint says the flag is in index.html. When we inspected the page there is a section of script we came across a path /legal/iota/epsilon/eta/data.html
