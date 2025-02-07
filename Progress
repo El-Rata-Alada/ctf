@@ -1,5 +1,9 @@
 
 1. intro - decoded
 2. level 1 - seems to be plus codes. took the degrees seriously.(free hint) -> ascii conversion -> rearrangements -> decoded.
-3. level 3 - trying to find keywords. SkyPod/EcoGrid. keyword from second file found from robot.txt. searched in disallowed paths. blog/gamma/zeta/delta/iota/zeta/nika.html
-4. level 3 - found the first port also. from the path specified in script. decoded.
+3. level 3 - 
+string a:
+
+string b:
+from the hint the second file found from robot.txt.we hosted the whole folder in vas code using live server and we searched in disallowed paths. 
+this path blog/gamma/zeta/delta/iota/zeta/ has a html file name nika.html which kas given us the string b : z6@Wv7L$2q    
